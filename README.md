@@ -19,7 +19,7 @@ Our data set is a randomized pull of 500 rows of ~20000 rows that assess approxi
 
 - Austin White: I'm a 5th year student majoring in Human Kinetics and am taking this course to learn about data analysis for future research.
 - Ian Robinson: I'm an alumni who earned his Bachelor's Degree in Political Science. I am taking a data science course in hopes that it will improve my career prospects. 
-- Person 3: one sentence about you!
+- Person 3: I'm a Second year computer science major. I'm taking this course out of personal interest and to help with independent researches. 
 
 ## References
 
