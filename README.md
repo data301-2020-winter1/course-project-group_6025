@@ -9,11 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Our topic is looking at a subset of data pulled from opening moves in chess as well as other variables within a match. We want to analyze which of these moves, lengths of rounds, and/or other variables can best correlate with other variables and/or wins in chess matches}
+Our topic is looking at a subset of data pulled from opening moves in chess as well as other variables within a match. We want to analyze which of these moves, lengths of rounds, and/or other variables can best correlate with other variables and/or wins in chess matches
 
 ## Describe your dataset in about 150-200 words
 
-{Our data set is a randomized pull of 500 rows of ~20000 rows that assess approximately 13 variables in chess that may or may not correlate with chess wins. We want to assess which moves or variables best correlate to other variables within a chess match.}
+Our data set is a randomized pull of 500 rows of ~20000 rows that assess approximately 13 variables in chess that may or may not correlate with chess wins. We want to assess which moves or variables best correlate to other variables within a chess match.
 
 ## Team Members
 
