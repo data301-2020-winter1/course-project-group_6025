@@ -11,6 +11,6 @@ def clean(path):
     )
 
     df_reduced = (df_base
-                    .drop(columns=["white_id", "id", "victory_status", "increment_code", "white_rating", "black_id", "turns", "created_at", "last_move_at", "black_rating"])            
+                    .drop(columns=["white_id", "id", "victory_status", "increment_code", "black_id", "turns", "created_at", "last_move_at"])            
     )
     return df_reduced
