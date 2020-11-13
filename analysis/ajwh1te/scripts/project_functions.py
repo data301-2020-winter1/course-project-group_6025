@@ -24,3 +24,17 @@ def load_and_process(path):
                           "rated"])
           )
     return df3
+def main_opening(opening):
+    if ':' in opening:
+        opening = opening.split(':')[0]
+    while '|' in opening:
+        opening = opening.split('|')[0]
+    if '#' in opening:
+        opening = opening.split('#')[0]
+    if 'Accepted' in opening:
+        opening = opening.replace('Accepted', '')
+    if 'Declined' in opening:
+        opening = opening.replace('Declined', '')
+    if 'Refused' in opening:
+        opening = opening.replace('Refused', '')
+    return opening.strip()
