@@ -12,6 +12,7 @@ def load_and_process(path):
     df2 = (df1
            .assign(date_start=(pd.to_datetime(df1["time_start"])))
            .assign(date_end=(pd.to_datetime(df1["time_end"])))
+           .assign(abs_rating=((df1["white_rating"]) - (df1["black_rating"])))
           )
     df3 = (df2
            .assign(length=(df2["date_end"] - df2["date_start"])*10000000)
@@ -24,10 +25,11 @@ def load_and_process(path):
                           "rated"])
           )
     return df3
+
 def main_opening(opening):
     if ':' in opening:
         opening = opening.split(':')[0]
-    while '|' in opening:
+    if '|' in opening:
         opening = opening.split('|')[0]
     if '#' in opening:
         opening = opening.split('#')[0]
