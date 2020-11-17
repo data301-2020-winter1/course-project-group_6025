@@ -1,10 +1,18 @@
+
+
+
 **Analysis**
+
+
 
 **Introduction**
 *Our analysis of the project will be included here.*
 In our analyses, we set out to observes the numerous variables in a chess match and the effects they had on the outcome of the game. Our dataset is composed of 20,000 matches played on lichess.com, an online competitive chess website where people around the world play against each other. 
 
 **The data analysed** 
+
+<img src="../images/Chess_Board.png" width="400px">
+
 
 **1a. Are strategies involving a lower number of opening plies more likely to be used**
 
@@ -34,6 +42,7 @@ If one is playing a game against a player with a noticeably higher/lower rating,
 
 In summary, our analyses show that: 
 
-1. 
-2.
-3.
+1. Strategies with fewer plies are more commonly used
+2. Players with higher ratings are more likely to win
+3. Differences in ratings can influence what opening moves are likely to be employed. 
+3. The colour one plays as is likely to influence the opening strategy one employs

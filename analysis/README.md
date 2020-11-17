@@ -11,6 +11,9 @@ In our analyses, we set out to observes the numerous variables in a chess match 
 
 **The data analysed** 
 
+<img src="../images/Chess_Board.png" width="400px">
+
+
 **1a. Are strategies involving a lower number of opening plies more likely to be used**
 
 In chess a ply is one move by one player in a turn; thus, there are two plies in a turn. We expect that strategies involving fewer moves will more likely result in fewer plies. When we take the mean of the number of plies from all the strategies employed as shown above, the average number of plies the opening strategies involve is roughly 3 plies implying that such strategies are more likely to be used. 
