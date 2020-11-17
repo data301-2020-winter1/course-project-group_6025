@@ -3,6 +3,8 @@
 
 **Analysis**
 
+
+
 **Introduction**
 *Our analysis of the project will be included here.*
 In our analyses, we set out to observes the numerous variables in a chess match and the effects they had on the outcome of the game. Our dataset is composed of 20,000 matches played on lichess.com, an online competitive chess website where people around the world play against each other. 
