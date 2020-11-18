@@ -37,8 +37,10 @@ If one is playing a game against a player with a noticeably higher/lower rating,
    In chess, the player playing white goes first, meaning they get to choose what opening move they wish to employ. Their opening strategy can often be changed based on how the player playing black responds to their opening. Thus, black's response has a great influence on the opening strategy is ultimately employed. 
 
    Because of this, we decided to see whether the colour one played as may have influenced the choice of opening ply. To do this, we broke down the victories by colour to analyse whether there were any differences. 
-    <img src="../images/preferred_openings_by_colour.png" width="300px"> (figure 4)
-   <img src="../images/wins_per_opening_per_colour.png" width="300px"> (figure 5)
+    <img src="../images/preferred_openings_by_colour.png" width="400px"> (figure 4)
+    
+    
+   <img src="../images/wins_per_opening_per_colour.png" width="400px"> (figure 5)
  
    In short, certain opening moves do appear to be more preferred depending on the colour one chooses. Moves such as the Van't Krujis Opening (A00) translated to far more wins for black than for white while other strategies, such as the semi-open Scandinavian Defense: Mieces-Kotroc Variatoin (B01), often worked in white's favour. More broadly, it is observed that open games (where both players start by moving the King's pawn two spaces forward) more often result in victories for white while semi-open matches (where white moves king's pawn two spaces forward while black responds with a different move) tend to end in black's favour. 
 
