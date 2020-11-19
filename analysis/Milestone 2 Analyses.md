@@ -35,7 +35,7 @@ As for player experience, we wanted to analyse how game and player ratings influ
 
 From there, we analysed whether higher player ratings correlated with higher wins. In the above graph (figure 4), we took the differences in absolute ratings of each side (where positive absolute values denote matches where White has the higher rating and negative absolute values denote matches where Black has the higher rating) to determine whether this was the case. As expected, players with higher ratings tend to win more often. 
 
-<img src="../images/rating_dispartiy.png" width="300px"> (figure 5)
+<img src="../images/rating_disparity.png" width="300px"> (figure 5)
 
 If one is playing a game against a player with a noticeably higher/lower rating, might one employ a different opening move than they would have done otherwise? In the scenario that one is playing with a more highly ranked player, they might possibly choose to employ a different opening move in an effort to improve their likelihood of winning. To see whether this was the case, we also looked to see whether certain moves were more popular with matches where there was a greater disparity in player rating. Indeed, we did notice that certain moves, namely the Bishop's opening and Queen's Gambit were more popular in these matches; however, the beginner-friendly openings such as Ruy Lopez also continued to remain popular, suggesting that a number of lower-rated players stuck with the strategies they know best. 
 
