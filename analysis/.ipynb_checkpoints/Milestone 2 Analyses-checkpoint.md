@@ -25,7 +25,7 @@ When we take the count of the most popular strategies (while removing any specif
 
 **2. Do ratings influence opening moves and outcomes?**
 
-   <img src="../images/popular_rated_openings.png" width="400px"> (figure 3)
+   <img src="../images/popular_rated_openings.png" width="300px"> (figure 3)
     
 To answer this questions, we started off by finding out what are the most common opening plies. In our findings, we noticed that some of the more popular opening plies were irregular, for example, the Hungarian Opening (A00) proved to be one of the more popular opening moves as opposed to the more well known Sicilian and French Defenses. Even opening plies more popular with beginners, such as the Ruy Lopez (C60) were not as popular, suggesting that a lot of the players on Lichess are very experienced (figure 3). 
 
@@ -50,7 +50,13 @@ If one is playing a game against a player with a noticeably higher/lower rating,
     
    <img src="../images/wins_per_opening_per_colour.png" width="400px"> (figure 7)
  
-   In short, certain opening moves do appear to be more preferred depending on the colour one chooses. As the above figures show, moves such as the Van't Krujis Opening (A00) translated to far more wins for black than for white while other strategies, such as the semi-open Scandinavian Defense: Mieces-Kotroc Variatoin (B01), often worked in white's favour. More broadly, it is observed that open games (where both players start by moving the King's pawn two spaces forward) more often result in victories for white while semi-open matches (where white moves king's pawn two spaces forward while black responds with a different move) tend to end in black's favour. 
+   In short, certain opening moves do appear to be more preferred depending on the colour one chooses. As the above figures show, moves such as the Van't Krujis Opening (A00) translated to far more wins for black than for white while other strategies, such as the semi-open Scandinavian Defense: Mieces-Kotroc Variatoin (B01), often worked in white's favour. More broadly, it is observed that open games (where both players start by moving the King's pawn two spaces forward) more often result in victories for white while semi-open matches (where white moves king's pawn two spaces forward while black responds with a different move) tend to end in black's favour.
+   
+**4. Does time influence the choice of opening ply?**
+
+   <img src="../images/time_and_ply.png" width="300px"> (figure 8) <img src="../images/match_times.png" width="300px"> (figure 9)
+   
+Given the variation in chess match times, it may be possible that there might be a positive correlation between amount of time and ply moves. After all, if one has more time, why not try a more complex opening move? However, as figure 8 shows, no such correlation appears to be present. Granted, the vast majority of matches were under 25 minutes in length, giving the data a bias towards shorter matches(figure 9). Nevertheless, it appears that other factors, such as the difference in rating, play a far greater role. 
 
 **Conclusions**
 
@@ -59,4 +65,5 @@ In summary, our analyses show that:
 1. Strategies with fewer plies are more commonly used
 2. Players with higher ratings are more likely to win
 3. Differences in ratings can influence what opening moves are likely to be employed. 
-3. The colour one plays as is likely to influence the opening strategy one employs
+4. The colour one plays as is likely to influence the opening strategy one employs
+5. Time plays little role in the choice of ply
