@@ -54,7 +54,7 @@ If one is playing a game against a player with a noticeably higher/lower rating,
    
 **4. Does time influence the choice of opening ply?**
 
-   <img src="../images/time_and_ply.png" width="300px"> (figure 8) <img src="../images/match_times.png" width="300px"> (figure 9)
+   <img src="../images/time_and_ply_2.png" width="300px"> (figure 8) <img src="../images/match_times.png" width="300px"> (figure 9)
    
 Given the variation in chess match times, it may be possible that there might be a positive correlation between amount of time and ply moves. After all, if one has more time, why not try a more complex opening move? However, as figure 8 shows, no such correlation appears to be present. Granted, the vast majority of matches were under 25 minutes in length, giving the data a bias towards shorter matches(figure 9). Nevertheless, it appears that other factors, such as the difference in rating, play a far greater role. 
 
