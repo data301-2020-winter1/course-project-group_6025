@@ -25,7 +25,7 @@ When we take the count of the most popular strategies (while removing any specif
 
 **2. Do ratings influence opening moves and outcomes?**
 
-   <img src="../images/preferred_rated_openings.png" width="400px">
+   <img src="../images/popular_rated_openings.png" width="400px"> (figure 3)
     
 To answer this questions, we started off by finding out what are the most common opening plies. In our findings, we noticed that some of the more popular opening plies were irregular, for example, the Hungarian Opening (A00) proved to be one of the more popular opening moves as opposed to the more well known Sicilian and French Defenses. Even opening plies more popular with beginners, such as the Ruy Lopez (C60) were not as popular, suggesting that a lot of the players on Lichess are very experienced (figure 3). 
 
